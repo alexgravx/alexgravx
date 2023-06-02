@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/alexandre-gravereaux-9b822521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius verdier" height="30" width="40" /></a>
 </p>
 
+[![alexgravx's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgravx&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/alexgravx)
 
 <!---
 alexgravx/alexgravx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

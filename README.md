@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexgravx
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python and Java
-- 📫 How to reach me: alexgravx@gmail.com
+- 📫 How to reach me: alexandre.gravereaux@student-cs.fr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

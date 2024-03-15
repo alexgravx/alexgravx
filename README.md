@@ -11,6 +11,10 @@
 </p>
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgravx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=0.5">
+</p>
+
 [![alexgravx's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgravx&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/alexgravx)
 
 <!---

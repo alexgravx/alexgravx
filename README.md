@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgravx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=0.5">
 </p>
 

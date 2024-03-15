@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alexgravx
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in DevOps, Data, Dev, IA and Cyber
+- 💻 Languages and Frameworks I use: Python, Javascript, React, Express.
+- 🌱 I’m currently learning Swift and C
 - 📫 How to reach me: alexandre.gravereaux@student-cs.fr
 
 <h3 align="left">Connect with me:</h3>

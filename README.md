@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://github.com/alexgravx/alexgravx/blob/main/header-alex.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer" width="770">
+  <picture>
+  <source
+    srcset="https://github.com/alexgravx/alexgravx/blob/main/header-alex.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/alexgravx/alexgravx/blob/main/header-alex-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github.com/alexgravx/alexgravx/blob/main/header-alex.png" alt="Github Banner - Alexandre - Computer Science Student" width="770">
+  </picture>
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello there 
@@ -7,6 +17,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexgravx.alexgravx)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![GitHub Alex](https://img.shields.io/github/followers/alexgravx?label=follow&style=social)](https://github.com/alexgravx)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=62CFD9&vCenter=true&width=435&height=25&lines=I+love+programming;I+love+fullstack+development;I+love+solving+problems;I+love+learning+new+things)](https://git.io/typing-svg)
 
 📚 I'm an MEng student at CentraleSupélec  
 👀 I’m interested in DevOps, Data and Fullstack Development  
@@ -70,8 +82,28 @@
 # 🧮 Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alexgravx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgravx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&layout=compact" align="center"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexgravx&show_icons=true&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexgravx&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexgravx&show_icons=true&hide_border=true" align="center"/>
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgravx&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgravx&show_icons=true&count_private=true&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgravx&show_icons=true&count_private=true&hide_border=true&layout=compact" align="center"/>
+</picture>
 </div>
 
 <!---

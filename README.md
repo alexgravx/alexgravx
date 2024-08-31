@@ -16,6 +16,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexgravx.alexgravx)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<a href="https://x.com/alex_gravx" target="_blank"><img src="https://img.shields.io/badge/X-X?style=flat&logo=x&logoColor=white&color=6aa6f8"/></a> 
+<a href="https://linkedin.com/in/alexandre-gravereaux" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Linkedin?style=flat&logo=linkedin&logoColor=white&color=6aa6f8"/></a> 
 [![GitHub Alex](https://img.shields.io/github/followers/alexgravx?label=follow&style=social)](https://github.com/alexgravx)
 
 <p align="center">
@@ -34,7 +36,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=62CFD9&vCenter=true&width=435&height=25&lines=I+love+programming;I+love+fullstack+development;I+love+solving+problems;I+love+learning+new+things)](https://git.io/typing-svg)
 
+<br>
+
+<img align="left" width="270" src="https://github.com/alexgravx/alexgravx/blob/main/macintosh.png">
+
+Ever since I first touched a computer, I've been interested in how they work. I first discovered programming as a way of quickly solving tedious or time-consuming problems for human beings. 
+Later, I learned to use it as a mean of massively manipulating data to derive concrete information and plots that could be used to make decisions. Finally, I discovered a lot at ViaRézo during my years at CentraleSupélec. I had the chance to manage a large network infrastructure with over a thousand clients. I learned the fundamentals of networking, system administration and virtualization. Since then, I've been keen to develop my DevOps skills. I've always been an Apple fan, so don't be surprised by this and don't try to convince me to stop.
+
+<br>
+<br>
+
 # 🔧 Technologies & Tools
+
+<br>
 
 <table><tr><td valign="top" width="33%">
 
@@ -78,18 +92,11 @@
 <a href="https://www.linux.org/tags/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-Bash?style=flat&logo=gnubash&logoColor=white&color=6aa6f8"/></a>  
   
 </div>
-</td></tr></table>
-
-# ☎️ Connect with me
-
-<div align="center">
-<a href="https://github.com/alexgravx" target="_blank"><img src="https://img.shields.io/badge/Github-Github?style=flat&logo=Github&logoColor=white&color=6aa6f8"/></a> 
-<a href="https://x.com/alex_gravx" target="_blank"><img src="https://img.shields.io/badge/X-X?style=flat&logo=x&logoColor=white&color=6aa6f8"/></a> 
-<a href="https://linkedin.com/in/alexandre-gravereaux" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Linkedin?style=flat&logo=linkedin&logoColor=white&color=6aa6f8"/></a> 
-<a href="mailto:alexandre.gravereaux@student-cs.fr" target="_blank"><img src="https://img.shields.io/badge/Outlook-Outlook?style=flat&logo=maildotru&logoColor=white&color=6aa6f8"/></a> 
-</div>  
+</td></tr></table> 
 
 # 🧮 Github Stats
+
+<br>
 
 <div align="center">
 <picture>

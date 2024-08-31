@@ -18,11 +18,21 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![GitHub Alex](https://img.shields.io/github/followers/alexgravx?label=follow&style=social)](https://github.com/alexgravx)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=62CFD9&vCenter=true&width=435&height=25&lines=I+love+programming;I+love+fullstack+development;I+love+solving+problems;I+love+learning+new+things)](https://git.io/typing-svg)
+<p align="center">
+  <picture>
+  <source
+    srcset="https://github.com/alexgravx/alexgravx/blob/main/terminal-screencapture.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/alexgravx/alexgravx/blob/main/terminal-screencapture-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github.com/alexgravx/alexgravx/blob/main/terminal-screencapture.png" alt="Terminal capture" width="770">
+  </picture>
+</p>
 
-📚 I'm an MEng student at CentraleSupélec  
-👀 I’m interested in DevOps, Data and Fullstack Development  
-🌱 I’m currently learning C
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=62CFD9&vCenter=true&width=435&height=25&lines=I+love+programming;I+love+fullstack+development;I+love+solving+problems;I+love+learning+new+things)](https://git.io/typing-svg)
 
 # 🔧 Technologies & Tools
 
